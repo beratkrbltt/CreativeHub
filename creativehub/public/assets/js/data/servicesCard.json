@@ -1,0 +1,38 @@
+[
+    {
+        "icon": "fa-solid fa-palette",
+        "title": "Logo Tasarımı",
+        "desc": "Markanızı en iyi şekilde temsil eden, özgün ve akılda kalıcı logo tasarımları.",
+        "color": "icon-blue"
+    },
+    {
+        "icon": "fa-solid fa-layer-group",
+        "title": "Kurumsal Kimlik",
+        "desc": "Profesyonel kurumsal kimlik çalışmaları ile markanıza tutarlı bir görsel dil.",
+        "color": "icon-purple"
+    },
+    {
+        "icon": "fa-solid fa-cube",
+        "title": "Ambalaj Tasarımı",
+        "desc": "Ürünlerinizi ön plana çıkaran, yaratıcı ve işlevsel ambalaj tasarımları.",
+        "color": "icon-green"
+    },
+    {
+        "icon": "fa-solid fa-file-image",
+        "title": "Sosyal Medya",
+        "desc": "Dikkat çeken sosyal medya görselleri ve içerik tasarımları.",
+        "color": "icon-orange-red"
+    },
+    {
+        "icon": "fa-solid fa-square-pen",
+        "title": "İllüstrasyon",
+        "desc": "Özgün ve etkileyici illüstrasyonlar ile markanıza karakter kazandırın.",
+        "color": "icon-bright-blue"
+    },
+    {
+        "icon": "fa-solid fa-object-group",
+        "title": "Baskı Tasarımı",
+        "desc": "Katalog, broşür, kartvizit ve tüm baskı materyallerinde profesyonel tasarım.",
+        "color": "icon-yellow-orange"
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "brand": {
+        "name": "CreativeHub",
+        "description": "Logo tasarımından kurumsal kimliğe kadar tüm ihtiyaçlarınız için yanınızdayız."
+    },
+    "links": [
+        {
+            "text": "Hakkımızda",
+            "link": "#about"
+        },
+        {
+            "text": "Hizmetler",
+            "link": "#services"
+        },
+        {
+            "text": "Konumumuz",
+            "link": "#transport"
+        },
+        {
+            "text": "İletişim",
+            "link": "#contact"
+        }
+    ],
+    "contact": {
+        "email": "creativehub@gmail.com",
+        "adres": "İstanbul/Türkiye",
+        "telefon": "+90 539 692 ** **"
+    },
+    "bottom": {
+        "copyright": "© 2026 Karabulut Digital • Frontend Developer • SEO Odaklı Web Siteleri",
+        "author": {
+            "name": "Berat KARABULUT",
+            "link": "https://www.linkedin.com/in/berat-karabulut-2791bb277/"
+        }
+    }
+}

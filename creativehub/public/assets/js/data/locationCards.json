@@ -1,0 +1,27 @@
+[
+    {
+        "icon": "fa-solid fa-location-dot",
+        "title": "Adres",
+        "desc": "İstanbul, Beşiktaş"
+    },
+    {
+        "icon": "fa-solid fa-phone",
+        "title": "Telefon",
+        "desc": "+90 (555) ******"
+    },
+    {
+        "icon": "fa-solid fa-envelope",
+        "title": "E-posta",
+        "desc": "hello@creativehub.com"
+    },
+    {
+        "icon": "fa-solid fa-clock",
+        "title": "Çalışma Saatleri",
+        "desc": "Pzt-Cum: 09:00 - 18:00"
+    },
+    {
+        "title": "Randevu Alın",
+        "desc": "Ofisimizi ziyaret etmek için önceden randevu almanızı öneririz.",
+        "btn": "Randevu Al"
+    }
+]

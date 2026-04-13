@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap konumu
+Sitemap: https://creativehubbb.web.app/sitemap.xml

@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "fa-compact-disc",
+        "title": "Yaratıcılık",
+        "desc": "Her projede benzersiz ve özgün tasarımlar"
+    },
+    {
+        "icon": "fa-user-group",
+        "title": "Müşteri Odaklı",
+        "desc": "Sizin vizyonunuz bizim önceliğiniz"
+    },
+    {
+        "icon": "fa-bolt",
+        "title": "Hızlı Teslimat",
+        "desc": "Zamanında ve kaliteli proje teslimi"
+    },
+    {
+        "icon": "fa-briefcase",
+        "title": "Profesyonellik",
+        "desc": "Yılların deneyimi ile mükemmel sonuçlar"
+    }
+]
